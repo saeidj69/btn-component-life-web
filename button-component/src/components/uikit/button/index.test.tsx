@@ -28,5 +28,5 @@ describe("CustomButton", () => {
     expect(buttonElement).toHaveStyle("background-color: red");
   });
 
-  // Add more tests as needed for other props and behaviors
+  
 });

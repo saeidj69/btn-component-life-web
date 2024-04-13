@@ -4,7 +4,7 @@ import { Button } from "./components/uikit";
 
 function App() {
   const handleClick = () => {
-    console.log("clicked");
+    alert("clicked");
   };
   return (
     <div className="app">
